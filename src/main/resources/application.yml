@@ -67,6 +67,42 @@ application:
         
       - name: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
         path: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+
+      - name: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+        path: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+
+      - name: https://someonewhocares.org/hosts/zero/hosts
+        path: https://someonewhocares.org/hosts/zero/hosts
+
+      - name: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+        path: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+
+      - name: https://winhelp2002.mvps.org/hosts.txt
+        path: https://winhelp2002.mvps.org/hosts.txt
+		
+      - name: https://v.firebog.net/hosts/neohostsbasic.txt
+        path: https://v.firebog.net/hosts/neohostsbasic.txt
+		
+      - name: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+        path: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+		
+      - name: https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+        path: https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+		
+      - name: https://v.firebog.net/hosts/AdguardDNS.txt
+        path: https://v.firebog.net/hosts/AdguardDNS.txt
+		
+      - name: https://v.firebog.net/hosts/Admiral.txt
+        path: https://v.firebog.net/hosts/Admiral.txt
+		
+      - name: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+        path: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+		
+      - name: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+        path: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+		
+      - name: https://v.firebog.net/hosts/Easylist.txt
+        path: https://v.firebog.net/hosts/Easylist.txt
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
