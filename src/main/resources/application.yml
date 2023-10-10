@@ -35,38 +35,38 @@ application:
       - name: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
         path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 
-      - name: AdGuard 中文过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+      - name: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 
-      - name: AdAway Default Blocklist
-        path: https://adaway.org/hosts.txt
+      - name: https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+        path: https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
 
-      - name: WindowsSpyBlocker
-        path: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+      - name: https://raw.githubusercontent.com/Hackl0us/AdBlock-Rules-Mirror/master/Easylist-China.txt
+        path: https://raw.githubusercontent.com/Hackl0us/AdBlock-Rules-Mirror/master/Easylist-China.txt
 
-      - name: 大圣净化
-        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+      - name: https://easylist-downloads.adblockplus.org/easylistchina.txt
+        path: https://easylist-downloads.adblockplus.org/easylistchina.txt
 
       - name: AWAvenue-Adblock-Rule
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 
-      - name: halflife-list
-        path: https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt
+      - name: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/adblock-for-dnsmasq.conf
+        path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/adblock-for-dnsmasq.conf
 
-      - name: 1024_hosts
-        path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+      - name: https://anti-ad.net/easylist.txt
+        path: https://anti-ad.net/easylist.txt
 
-      - name: AdBlocker Ultimate
-        path: https://filters.adavoid.org/ultimate-ad-filter.txt
+      - name: https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+        path: https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
-      - name: damengzhu/banad
-        path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+      - name: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+        path: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 
-      - name: NoAppDownload
-        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
+      - name: https://v.firebog.net/hosts/static/w3kbl.txt
+        path: https://v.firebog.net/hosts/static/w3kbl.txt
         
-      - name: CJX's Annoyance List
-        path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+      - name: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+        path: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
