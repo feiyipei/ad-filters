@@ -17,8 +17,8 @@ application:
   rule:
     #远程规则
     remote:
-      - name: AdGuard 基础过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+      - name: ad-pc
+        path: https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt
 
       - name: AdGuard 移动广告过滤器
         path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
