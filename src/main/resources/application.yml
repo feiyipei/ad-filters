@@ -229,9 +229,6 @@ application:
 
       - name: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
         path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-
-      - name: https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
-        path: https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
