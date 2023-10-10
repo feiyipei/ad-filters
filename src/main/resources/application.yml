@@ -178,6 +178,33 @@ application:
 
       - name: https://v.firebog.net/hosts/RPiList-Phishing.txt
         path: https://v.firebog.net/hosts/RPiList-Phishing.txt
+
+      - name: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+        path: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+
+      - name: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+        path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+
+      - name: https://urlhaus.abuse.ch/downloads/hostfile/
+        path: https://urlhaus.abuse.ch/downloads/hostfile/
+
+      - name: https://v.firebog.net/hosts/Prigent-Malware.txt
+        path: https://v.firebog.net/hosts/Prigent-Malware.txt
+
+      - name: https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+        path: https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+
+      - name: https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+        path: https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+
+      - name: https://v.firebog.net/hosts/Prigent-Adult.txt
+        path: https://v.firebog.net/hosts/Prigent-Adult.txt
+
+      - name: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+        path: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+
+      - name: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+        path: https://easylist-downloads.adblockplus.org/easyprivacy.txt
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
