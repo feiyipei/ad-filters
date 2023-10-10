@@ -1,11 +1,19 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-10 16:40:43
+! Last Modified: 2023-10-10 16:46:07
 ! Homepage: https://github.com/xndeye/adblock_list
+! 👇This Part Merge from: ad2 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt)
+||adi*.cnool.net^
+||113.17.188.*.js
+||onetrust.
+||121.204.246.*.gif
+||120.27.*.html
+||js*.abolezi.com^
+||218.26.217.*.html
+||122.225.103.*.htm
 ! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
 ||sax*.sina.
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
@@ -15,56 +23,70 @@
 ||113.17.188.*.js
 ||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
-||js*.abolezi.com^
-||218.26.217.*.html
 ||sam*.baby-kingdom.com^
 ||ja*.gamersky.com^
-||122.225.103.*.htm
-||ky891.oss-*.aliyuncs.com^
-! 👇This Part Merge from: ad2 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt)
-||dm*.ppzuowen.com^
-||dm*.yxlady.com^
-||uc*.atobo.com^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||fpb1.chinacar.
-||onetrust.
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||121.204.246.*.gif
-||acookie.*.gif?
-||qpb*.sohu.com^
-||static*.365inews.com^
-||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+! 👇This Part Merge from: ad-pc (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt)
+||get-me-wow.
 ! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
-||ac*.786ip.com^
-||bdcpro*.techweb.com.cn^
-728x90.jpg|
-||bd*-ys.km.com^
 ||geotargetly-api-*.com^
-||ysdm*.ys137.com.cn^
-||a*.chajiaotong.com^
-||ac*.pingguolv.com^
-||bdlm*.hc360.com^
-||ac*.faxingchina.com^
-||at*.doubanio.com^
+||acookie.*.gif?
 ! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
 ||bc.geocities.
-||analytics-api.dvdfab.
-||aff*.kolektiva.net^
 ||collector-*.px-client.net^
 ||stats-*.p2pnow.ru^
-||pixel.archive.
-||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||stats2.*.fdnames.com^
 ||servo-report.dvdfab.
 ||tracker.twenga.
 ||fb_servpub-a.akamaihd.net^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||pixel.archive.
+||log-*.previewnetworks.com^
+! 👇This Part Merge from: ad-mo (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt)
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||23.109.87.
+! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
+||solutions.|pages.indigovision.com^
+! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||stats.zone-telechargement.
+! 👇This Part Merge from: ad2 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt)
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||dm*.yxlady.com^
+||bd*-ys.km.com^
+||uc*.atobo.com^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||ac*.786ip.com^
+728x90.jpg|
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
 ! 👇This Part Merge from: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 ||allyes.
 ||icast.
@@ -88,30 +110,9 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-! 👇This Part Merge from: ad3 (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt)
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||stats.zone-telechargement.
-! 👇This Part Merge from: ad-mo (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt)
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||centent.streamp1ay.
-||142.91.159.
-||cas.*.criteo.com^
-||23.109.87.
-||cintent.streanplay.
-! 👇This Part Merge from: https://raw.githubusercontent.com/Hackl0us/AdBlock-Rules-Mirror/master/Easylist-China.txt
-||po*.877zw.com^
-||201*.myhard.com^
 ! 👇This Part Merge from: ad-pc (https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt)
-||get-me-wow.
+||centent.streamp1ay.
+||cintent.streanplay.
 ! 👇This Part Merge from: AWAvenue-Adblock-Rule (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 ||mobileanalytics.*.amazonaws.com^
 ||api-access.pangolin-sdk-toutiao*.com^
@@ -123,6 +124,9 @@
 ||adsfilebssdlbig.*.kugou.com^
 ||ad.*.xiaomi.com^
 ||w*.*skwai.com^
+! 👇This Part Merge from: https://raw.githubusercontent.com/Hackl0us/AdBlock-Rules-Mirror/master/Easylist-China.txt
+||po*.877zw.com^
+||201*.myhard.com^
 ! 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -213,3 +217,35 @@
 ||qchannel*.cn^
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
+! 👇This Part Merge from: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+ghm_isreal.hit.gemius.pl
+crm_cdk.saas.appdynamics.com
+i_mobistar.tealiumiq.com
+ghm_poland.hit.gemius.pl
+gde_default.hit.gemius.pl
+ghm_latvia.hit.gemius.pl
+ghm_israel.hit.gemius.pl
+imaginea_ci.a3cloud.net
+ghm_hungary.hit.gemius.pl
+! 👇This Part Merge from: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+en_mixxmix.pushcrew.com
+q2_2018.pushcrew.com
+tt_qa.onthe.io
+wharton_360.qualtrics.com
+! 👇This Part Merge from: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+grandcasino_wofslots.tresensa.com
+medexsupply_com.stage.searchspring.net
+https-3a__b24-2d8igjfl.bitrix24.com
+olympus_imaging_america_inc.recs.igodigital.com
+chronext_com.stage.searchspring.net
+pennstateind_com.stage.searchspring.net
+de_chronext_com.stage.searchspring.net
+! 👇This Part Merge from: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+af_events.bidalgo.com
+af_installs.bidalgo.com
+https_static.olark.com
+! 👇This Part Merge from: https://v.firebog.net/hosts/AdguardDNS.txt
+4adtf.com.
+10.10.34.
+! 👇This Part Merge from: https://v.firebog.net/hosts/neohostsbasic.txt
+localhost
