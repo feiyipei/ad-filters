@@ -228,6 +228,9 @@ application:
       - name: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
         path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
+      - name: https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+        path: https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+
       - name: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
         path: https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
 
