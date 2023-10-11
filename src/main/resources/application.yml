@@ -196,6 +196,38 @@ application:
 
       - name: https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
         path: https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+
+
+      - name: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+        path: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+
+      - name: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+        path: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+      - name: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+        path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+      - name: https://www.i-dont-care-about-cookies.eu/abp/
+        path: https://www.i-dont-care-about-cookies.eu/abp/
+
+      - name: https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+        path: https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+
+      - name: https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+        path: https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+
+      - name: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+        path: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+      - name: https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+        path: https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+
+      - name: https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+        path: https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+
+      - name: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+        path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
