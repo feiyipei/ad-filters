@@ -285,6 +285,21 @@ application:
       - name: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
         path: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
 
+      - name: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+        path: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+
+      - name: https://raw.githubusercontent.com/peizhennan/-/main/ADH
+        path: https://raw.githubusercontent.com/peizhennan/-/main/ADH
+
+      - name: https://gist.githubusercontent.com/Ewpratten/a25ae63a7200c02c850fede2f32453cf/raw/b9318009399b99e822515d388b8458557d828c37/hosts-yt-ads
+        path: https://gist.githubusercontent.com/Ewpratten/a25ae63a7200c02c850fede2f32453cf/raw/b9318009399b99e822515d388b8458557d828c37/hosts-yt-ads
+
+      - name: https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt
+        path: https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt
+
+      - name: https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
+        path: https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
+
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - name: 'xndeye private List'
